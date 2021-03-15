@@ -1,0 +1,2 @@
+python train.py --data /home/psdz/zjx/huhuan_yolov5/data/hand.yaml --img-size 608 --batch-size 32 --batch 8 --epochs 100 --cfg /home/psdz/zjx/huhuan_yolov5/models/yolov5x.yaml --weights /home/psdz/zjx/huhuan_yolov5/weights/yolov5x.pt --device 0,1
+
